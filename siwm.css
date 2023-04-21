@@ -1,0 +1,71 @@
+
+/* ************************************** */
+.navbar-brand {
+  margin-right: auto;
+  margin-left: 0;
+}
+
+/* ******************************************************* */
+.navbar-brand:hover {
+    color: #007bff;
+  }
+  .navbar-nav .nav-link:hover {
+    color: #007bff;
+  }
+/* ******************************************************* */
+#swim img {
+    margin: 0 auto;
+}
+span{
+    color: #007bff;
+  }
+  
+p{
+    color: #fff;
+}
+/* ******************************************************* */
+#services .card {
+  border: none;
+}
+
+.card-text{
+  color: black;
+}
+/* ******************************************************* */
+.carousel-item img {
+  height: 500px;
+  object-fit: cover;
+}
+/* ******************************************************* */
+#team .card {
+  border: none;
+  background-color: transparent;
+}
+
+#team .card:hover {
+  transform: translateY(-5px);
+}
+
+/* ******************************************************* */
+#contact {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 100px 0;
+}
+
+#contact .card {
+  border: none;
+}
+
+#contact h2 {
+  margin-top: 0;
+}
+
+#contact ul {
+  list-style: none;
+  padding-left: 0;
+}
+.conth{
+  font-size: 2.5rem;
+}
